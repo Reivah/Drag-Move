@@ -21,5 +21,5 @@ The Interactive Geometrical Objects project is application that you can freely m
 
 ## Demo
 
-https://reivah.github.io/Drag-Move/
+https://reivah.github.io/Interactive-Geometrical-Objects/
 
